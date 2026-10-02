@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment (RAHASIA - jangan di-commit)
+.env
+
+# Uploads
+uploads/
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+next-env.d.ts
+
+# OS
+.DS_Store
+Thumbs.db
